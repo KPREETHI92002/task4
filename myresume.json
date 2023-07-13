@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "PREETHI K",
+    "label": "An aspiring web developer",
+    "picture": "",
+    "email": "kpreethi92002@gmail.com",
+    "phone": "+91 8248194014",
+    "degree": "B.TECH INFORMATION TECHNOLOGY",
+    "summary": "Steadfast and resilient individual, skilled in creating responsive and visually engaging websites,utilizing my expertise in HTML,CSS and Javascript to deliver user experiences. With a keen eye for detail and passion for problem solving, I strive to bring innovative and impactful solutions to every project I undertake..",
+    "location": {
+      "address": "Madipakkam",
+      "postalCode": "600091",
+      "city": "Chennai",
+      "countryCode": "India",
+      "region": "Tamilnadu"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "PREETHI KUMARESAN",
+        "url": "https://www.linkedin.com/in/preethi-kumaresan-7b0203266"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Playwithbot",
+      "position": "Content writer",
+      "startDate": "November 2022-Present"
+      
+    }
+  ],
+ 
+
+  "education": [
+    {
+      "institution": "Meenakshi Sundararajan Engineering College",
+      "area": "Information Technology",
+   
+      "startDate": "July 2020",
+      "endDate": "June 2024",
+      "gpa": "8.76%"
+     
+    }
+  ],
+  "awards": [
+    {
+      "title": "Project Presentation",
+      
+      "awarder": "IBM"
+      
+    }
+  ],
+ 
+  "skills": [
+    {
+      "name": " 'Programming Languages'",
+      "level": "4",
+      "keywords": [
+        "Keywords under this category ('Java', 'C', 'HTML','CSS','Javascript')"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "'Tamil','English','Hindi'",
+      "fluency": "(5,'5','3')"
+      
+    }
+  ],
+  "interests": [
+    {
+      "name": "('Cooking',Reading','Music')"
+     
+    }
+  ]
+}
